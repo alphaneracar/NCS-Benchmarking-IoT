@@ -1,0 +1,14 @@
+node-a8-12.strasbourg.iot-lab.info
+node-a8-7.strasbourg.iot-lab.info
+node-a8-4.strasbourg.iot-lab.info
+node-a8-3.strasbourg.iot-lab.info
+node-a8-2.strasbourg.iot-lab.info
+node-a8-1.strasbourg.iot-lab.info
+node-a8-8.strasbourg.iot-lab.info
+node-a8-11.strasbourg.iot-lab.info
+node-a8-6.strasbourg.iot-lab.info
+node-a8-13.strasbourg.iot-lab.info
+node-a8-14.strasbourg.iot-lab.info
+node-a8-10.strasbourg.iot-lab.info
+node-a8-5.strasbourg.iot-lab.info
+node-a8-9.strasbourg.iot-lab.info
